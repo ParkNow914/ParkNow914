@@ -1,8 +1,8 @@
 # Olá, eu sou o Alisson Santos 👋
 
-### Desenvolvedor Full-Stack · Automação com IA · Bots de WhatsApp · SaaS
+### Fundador da **Autark** · Automação com IA · Bots de WhatsApp · SaaS Full-Stack
 
-Eu construo **sistemas que trabalham sozinhos**: bots de WhatsApp que vendem, atendem e agendam 24/7, SaaS completos e integrações que eliminam trabalho manual. Tecnólogo em **Gestão da Tecnologia da Informação** — uno base técnica com visão de negócio.
+Eu construo **sistemas que trabalham sozinhos**: fluxos de WhatsApp + IA que vendem, atendem e agendam 24/7, SaaS completos e integrações que eliminam trabalho manual. A **Autark** é o meu estúdio — quem atende, constrói e entrega sou eu. Tecnólogo em **Gestão da Tecnologia da Informação**: uno base técnica com visão de negócio.
 
 📍 Lorena, São Paulo, Brasil · 🌎 100% remoto · ⭐ **5.0 (100% de recomendação)** no 99freelas
 
