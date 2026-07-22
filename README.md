@@ -1,8 +1,13 @@
-# Olá, eu sou o Alisson Santos 👋
+<p align="center">
+  <img src="https://parknow914.github.io/assets/logo-mark.png" alt="Autark" height="92" />
+</p>
+<h1 align="center">Autark</h1>
+<p align="center"><strong>Sistemas que trabalham sozinhos enquanto você cresce.</strong></p>
+<p align="center">Automação com IA · Bots de WhatsApp · SaaS Full-Stack · por <a href="https://parknow914.github.io/">Alisson Santos</a></p>
 
-### Fundador da **Autark** · Automação com IA · Bots de WhatsApp · SaaS Full-Stack
+---
 
-Eu construo **sistemas que trabalham sozinhos**: fluxos de WhatsApp + IA que vendem, atendem e agendam 24/7, SaaS completos e integrações que eliminam trabalho manual. A **Autark** é o meu estúdio — quem atende, constrói e entrega sou eu. Tecnólogo em **Gestão da Tecnologia da Informação**: uno base técnica com visão de negócio.
+👋 Eu sou o **Alisson Santos**, fundador da **Autark**. Construo **sistemas que trabalham sozinhos**: fluxos de WhatsApp + IA que vendem, atendem e agendam 24/7, SaaS completos e integrações que eliminam trabalho manual. A Autark é o meu estúdio — quem atende, constrói e entrega sou eu. Tecnólogo em **Gestão da Tecnologia da Informação**: uno base técnica com visão de negócio.
 
 📍 Lorena, São Paulo, Brasil · 🌎 100% remoto · ⭐ **5.0 (100% de recomendação)** no 99freelas
 
