@@ -187,12 +187,16 @@ Pego **poucos projetos por vez**, de propósito: é o que permite responder no m
 
 <br />
 
-## 📊 GitHub
+## 📈 Números que importam
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ParkNow914&show_icons=true&hide_border=true&bg_color=050810&title_color=34d399&icon_color=22d3ee&text_color=8b96a9&ring_color=34d399" alt="Estatísticas do GitHub" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ParkNow914&layout=compact&hide_border=true&bg_color=050810&title_color=34d399&text_color=8b96a9" alt="Linguagens mais usadas" height="165" />
-</p>
+<table>
+<tr>
+<td align="center" width="25%"><h2>5.0 ★</h2><sub>nota no 99freelas</sub></td>
+<td align="center" width="25%"><h2>100%</h2><sub>clientes que recomendam</sub></td>
+<td align="center" width="25%"><h2>8</h2><sub>sistemas no portfólio</sub></td>
+<td align="center" width="25%"><h2>487</h2><sub>testes só no maior deles</sub></td>
+</tr>
+</table>
 
 <br />
 
