@@ -132,10 +132,10 @@ Três decisões de arquitetura que eu levo para todo projeto — é o que faz o 
 
 ```mermaid
 flowchart LR
-    W["📱 WhatsApp"] --> C
+    W["📱 WhatsApp"] --> C["🧠 Cérebro — regras, preços, agenda"]
     T["✈️ Telegram"] --> C
-    L["🌐 Loja web / site"] --> C
-    C{{"🧠 Cérebro<br/>regras, preços, agenda"}} --> D[("🗄️ Banco")]
+    L["🌐 Loja web"] --> C
+    C --> D[("🗄️ Banco")]
     C --> P["💳 PIX · Stripe · Mercado Pago"]
     C --> A["📅 Agenda"]
     C --> H["👤 Atendente humano"]
