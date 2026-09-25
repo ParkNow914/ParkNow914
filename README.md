@@ -158,7 +158,11 @@ Todo sistema que eu entrego é montado com as mesmas nove peças: um núcleo de 
 
 ## §3 Relatório de campo
 
-Sete avaliações no 99freelas, todas 5.0, com 100% de recomendação. Duas delas, como o cliente escreveu:
+Dez avaliações no 99freelas, todas 5.0, com 100% de recomendação e 11 projetos concluídos. Três delas, como o cliente escreveu:
+
+> Excelente profissional. Explica bem tudo.
+>
+> <sub>Página HTML na frente do WordPress · ago. 2026</sub>
 
 > Recomendo a todos, um ótimo profissional e de muito conhecimento, sempre atendendo com rapidez todas as demandas solicitadas.
 >
@@ -170,8 +174,8 @@ Sete avaliações no 99freelas, todas 5.0, com 100% de recomendação. Duas dela
 
 <table>
 <tr>
-<td align="center" width="25%"><h2>5.0 ★</h2><sub>nota no 99freelas</sub></td>
-<td align="center" width="25%"><h2>100%</h2><sub>dos clientes recomendam</sub></td>
+<td align="center" width="25%"><h2>5.0 ★</h2><sub>nota no 99freelas, 100% recomendam</sub></td>
+<td align="center" width="25%"><h2>10</h2><sub>avaliações, todas 5.0</sub></td>
 <td align="center" width="25%"><h2>10</h2><sub>sistemas no registro</sub></td>
 <td align="center" width="25%"><h2>487</h2><sub>testes só no maior deles</sub></td>
 </tr>
