@@ -1,15 +1,15 @@
-<a href="https://autarktech.com.br/">
+<a href="https://autarktech.com.br/?utm_source=github&utm_medium=perfil">
   <img src="assets/banner.png" alt="Alisson Santos, fundador da Autark. Sistemas que trabalham sozinhos enquanto você cresce. Ao lado, a Fig. 1: o Cérebro Autark em vista explodida." width="100%" />
 </a>
 
 <p align="center">
-  <a href="https://autarktech.com.br/"><img src="https://img.shields.io/badge/site-autarktech.com.br-ff5a1f?style=for-the-badge&labelColor=15181b" alt="Site: autarktech.com.br" /></a>
+  <a href="https://autarktech.com.br/?utm_source=github&utm_medium=perfil"><img src="https://img.shields.io/badge/site-autarktech.com.br-ff5a1f?style=for-the-badge&labelColor=15181b" alt="Site: autarktech.com.br" /></a>
   <a href="https://wa.me/5512991743827"><img src="https://img.shields.io/badge/WhatsApp-falar_comigo-3ddc97?style=for-the-badge&logo=whatsapp&logoColor=3ddc97&labelColor=15181b" alt="WhatsApp" /></a>
   <a href="https://www.99freelas.com.br/user/Alisson_sntsz"><img src="https://img.shields.io/badge/99freelas-5.0_%E2%98%85-ece7dc?style=for-the-badge&labelColor=15181b" alt="Nota 5.0 no 99freelas" /></a>
   <a href="https://www.linkedin.com/in/alisson-santos-70a327270"><img src="https://img.shields.io/badge/LinkedIn-conectar-ece7dc?style=for-the-badge&logo=linkedin&logoColor=ece7dc&labelColor=15181b" alt="LinkedIn" /></a>
 </p>
 
-Eu sou o **Alisson Santos**, fundador da **[Autark](https://autarktech.com.br/)**. Construo sistemas que trabalham sozinhos: atendimento de WhatsApp com IA que vende, atende e agenda a qualquer hora, SaaS completos e integrações que tiram o trabalho manual do seu negócio.
+Eu sou o **Alisson Santos**, fundador da **[Autark](https://autarktech.com.br/?utm_source=github&utm_medium=perfil)**. Construo sistemas que trabalham sozinhos: atendimento de WhatsApp com IA que vende, atende e agenda a qualquer hora, SaaS completos e integrações que tiram o trabalho manual do seu negócio.
 
 A Autark é uma pessoa só, e é por isso que funciona. Você não passa por agência nem gerente de conta: quem atende, constrói e entrega sou eu. Antes de abrir o editor eu entendo o objetivo de negócio do projeto, hábito que vem da minha formação em Gestão da Tecnologia da Informação.
 
@@ -17,7 +17,7 @@ A Autark é uma pessoa só, e é por isso que funciona. Você não passa por ag�
 
 ## §1 Sistemas em operação
 
-Capturas reais dos sistemas rodando. Cada um tem a situação de hoje escrita ao lado, do jeito que está no [registro do site](https://autarktech.com.br/#sistemas).
+Capturas reais dos sistemas rodando. Cada um tem a situação de hoje escrita ao lado, do jeito que está no [registro do site](https://autarktech.com.br/?utm_source=github&utm_medium=perfil#sistemas).
 
 <table>
 <tr>
@@ -119,14 +119,14 @@ CRM para pequenos negócios: leads pontuados, pipeline kanban, command palette, 
 | Código | Sistema | Tipo | Situação | Ver |
 |---|---|---|---|---|
 | SYS-01 | AgendaZap | SaaS · IA · WhatsApp | Em produção | [demo](https://agendazap-three.vercel.app) |
-| SYS-02 | CRM de WhatsApp | CRM · API oficial da Meta | Encerrado pelo cliente | [no site](https://autarktech.com.br/#sys-02) |
-| SYS-03 | JurisIA | IA jurídica · SaaS B2B | Produto próprio | [no site](https://autarktech.com.br/#sys-03) |
+| SYS-02 | CRM de WhatsApp | CRM · API oficial da Meta | Encerrado pelo cliente | [no site](https://autarktech.com.br/?utm_source=github&utm_medium=perfil#sys-02) |
+| SYS-03 | JurisIA | IA jurídica · SaaS B2B | Produto próprio | [no site](https://autarktech.com.br/?utm_source=github&utm_medium=perfil#sys-03) |
 | SYS-04 | ParkNow | SaaS B2B2C · web + mobile | Produto próprio | [código](https://github.com/ParkNow914/ParkNow) |
-| SYS-05 | Bia | Delivery multicanal · IA | Entregue | [no site](https://autarktech.com.br/#sys-05) |
+| SYS-05 | Bia | Delivery multicanal · IA | Entregue | [no site](https://autarktech.com.br/?utm_source=github&utm_medium=perfil#sys-05) |
 | SYS-06 | FlowHub | CRM SaaS · código aberto | Produto próprio | [código](https://github.com/ParkNow914/flowhub) |
-| SYS-07 | Marvet | Site e catálogo · SEO | Entregue | [no site](https://autarktech.com.br/#sys-07) |
+| SYS-07 | Marvet | Site e catálogo · SEO | Entregue | [no site](https://autarktech.com.br/?utm_source=github&utm_medium=perfil#sys-07) |
 | SYS-08 | RealCred+ | Landing + simulador | Entregue | [código](https://github.com/ParkNow914/realcredmais) |
-| SYS-09 | Índice de Gestão | Diagnóstico · agronegócio | Em produção | [no site](https://autarktech.com.br/#sys-09) |
+| SYS-09 | Índice de Gestão | Diagnóstico · agronegócio | Em produção | [no site](https://autarktech.com.br/?utm_source=github&utm_medium=perfil#sys-09) |
 | SYS-10 | Acerto | SaaS · crédito consignado | Produto próprio | [demo](https://acerto-comissao.netlify.app) |
 
 </details>
@@ -140,7 +140,7 @@ CRM para pequenos negócios: leads pontuados, pipeline kanban, command palette, 
   <source srcset="assets/fig1-montagem.webp" type="image/webp" />
   <img src="assets/fig1-montagem.gif" alt="A Fig. 1 do site se montando: a máquina sai do desenho em traço, as peças se encaixam e a lâmpada acende com a etiqueta OPERANDO." width="100%" />
 </picture>
-<p align="center"><sub>Fig. 1 do <a href="https://autarktech.com.br/#montagem">site</a>, capturada da própria cena 3D</sub></p>
+<p align="center"><sub>Fig. 1 do <a href="https://autarktech.com.br/?utm_source=github&utm_medium=perfil#montagem">site</a>, capturada da própria cena 3D</sub></p>
 </td>
 <td valign="top">
 
@@ -223,4 +223,4 @@ Me conte o que você quer automatizar ou construir. Respondo no mesmo dia e já 
 
 ---
 
-<p align="center"><sub><b>Autark</b> · Manual de Operação · Rev. 2026.09 · <a href="https://autarktech.com.br/">autarktech.com.br</a> · <a href="https://github.com/ParkNow914/ParkNow914.github.io">código do site</a></sub></p>
+<p align="center"><sub><b>Autark</b> · Manual de Operação · Rev. 2026.09 · <a href="https://autarktech.com.br/?utm_source=github&utm_medium=perfil">autarktech.com.br</a> · <a href="https://github.com/ParkNow914/ParkNow914.github.io">código do site</a></sub></p>
