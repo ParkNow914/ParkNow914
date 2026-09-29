@@ -119,15 +119,15 @@ CRM para pequenos negócios: leads pontuados, pipeline kanban, command palette, 
 | Código | Sistema | Tipo | Situação | Ver |
 |---|---|---|---|---|
 | SYS-01 | AgendaZap | SaaS · IA · WhatsApp | Em produção | [demo](https://agendazap-three.vercel.app) |
-| SYS-02 | CRM de WhatsApp | CRM · API oficial da Meta | Encerrado pelo cliente | [no site](https://autarktech.com.br/?utm_source=github&utm_medium=perfil#sys-02) |
-| SYS-03 | JurisIA | IA jurídica · SaaS B2B | Produto próprio | [no site](https://autarktech.com.br/?utm_source=github&utm_medium=perfil#sys-03) |
+| SYS-02 | CRM de WhatsApp | CRM · API oficial da Meta | Encerrado pelo cliente | [ficha](https://autarktech.com.br/sistemas/crm-whatsapp/?utm_source=github&utm_medium=perfil) |
+| SYS-03 | JurisIA | IA jurídica · SaaS B2B | Produto próprio | [ficha](https://autarktech.com.br/sistemas/jurisia/?utm_source=github&utm_medium=perfil) |
 | SYS-04 | ParkNow | SaaS B2B2C · web + mobile | Produto próprio | [código](https://github.com/ParkNow914/ParkNow) |
-| SYS-05 | Bia | Delivery multicanal · IA | Entregue | [no site](https://autarktech.com.br/?utm_source=github&utm_medium=perfil#sys-05) |
+| SYS-05 | Bia | Delivery multicanal · IA | Entregue | [ficha](https://autarktech.com.br/sistemas/bia/?utm_source=github&utm_medium=perfil) |
 | SYS-06 | FlowHub | CRM SaaS · código aberto | Produto próprio | [código](https://github.com/ParkNow914/flowhub) |
-| SYS-07 | Marvet | Site e catálogo · SEO | Entregue | [no site](https://autarktech.com.br/?utm_source=github&utm_medium=perfil#sys-07) |
+| SYS-07 | Marvet | Site e catálogo · SEO | Entregue | [ficha](https://autarktech.com.br/sistemas/marvet/?utm_source=github&utm_medium=perfil) |
 | SYS-08 | RealCred+ | Landing + simulador | Entregue | [código](https://github.com/ParkNow914/realcredmais) |
-| SYS-09 | Índice de Gestão | Diagnóstico · agronegócio | Em produção | [no site](https://autarktech.com.br/?utm_source=github&utm_medium=perfil#sys-09) |
-| SYS-10 | Acerto | SaaS · crédito consignado | Produto próprio | [demo](https://acerto-comissao.netlify.app) |
+| SYS-09 | Índice de Gestão | Diagnóstico · agronegócio | Em produção | [ficha](https://autarktech.com.br/sistemas/indice-de-gestao/?utm_source=github&utm_medium=perfil) |
+| SYS-10 | Acerto | SaaS · crédito consignado | Produto próprio | [ficha](https://autarktech.com.br/sistemas/acerto/?utm_source=github&utm_medium=perfil) |
 
 </details>
 
