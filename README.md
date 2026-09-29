@@ -218,7 +218,7 @@ Me conte o que você quer automatizar ou construir. Respondo no mesmo dia e já 
 
 <p align="center">
   <a href="https://wa.me/5512991743827"><img src="https://img.shields.io/badge/(12)_99174--3827-WhatsApp-ff5a1f?style=for-the-badge&logo=whatsapp&logoColor=ff5a1f&labelColor=15181b" alt="WhatsApp (12) 99174-3827" /></a>
-  <a href="mailto:alimiguel1098@gmail.com"><img src="https://img.shields.io/badge/e--mail-alimiguel1098%40gmail.com-ece7dc?style=for-the-badge&logo=gmail&logoColor=ece7dc&labelColor=15181b" alt="E-mail" /></a>
+  <a href="mailto:contato@autarktech.com.br"><img src="https://img.shields.io/badge/e--mail-contato%40autarktech.com.br-ece7dc?style=for-the-badge&labelColor=15181b" alt="E-mail contato@autarktech.com.br" /></a>
 </p>
 
 ---
