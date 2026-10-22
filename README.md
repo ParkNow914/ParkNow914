@@ -67,16 +67,16 @@ Catálogo de 6.438 produtos importado do ERP. Loja web, Telegram e WhatsApp caem
 </td>
 <td width="50%" valign="top">
 
-<img src="assets/projetos/marvet.webp" alt="Site da Marvet: o seu pasto começa pela raiz" />
+<a href="https://autarktech.com.br/sistemas/realcredmais/?utm_source=github&utm_medium=perfil"><img src="https://autarktech.com.br/assets/realcredmais.webp" alt="RealCred+: simulador de crédito consignado" /></a>
 
-**SYS-07 · Marvet** <img src="https://img.shields.io/badge/-entregue-ece7dc?style=flat-square" alt="Entregue" align="right" /><br />
-<sub>Site e catálogo · SEO · agropecuária de Santa Catarina</sub>
+**SYS-07 · RealCred+** <img src="https://img.shields.io/badge/-entregue-ece7dc?style=flat-square" alt="Entregue" align="right" /><br />
+<sub>Landing + simulador · crédito consignado</sub>
 
-Cada cultivar ganhou página própria, porque quem busca "muda de tifton 85" precisa cair numa página sobre tifton 85. Adicionar uma muda é editar um arquivo.
+Simulador que calcula a parcela sem pedir CPF e leva o cliente ao WhatsApp com a conta pronta. Regras de 2026 com a fonte de cada uma, página própria por modalidade de crédito.
 
-`Next.js 16` `React 19` `TypeScript` `Tailwind v4`
+`Vite` `JavaScript` `Netlify Functions` `Schema.org`
 
-1 arquivo = 1 página
+Lighthouse 99–100 no celular
 
 </td>
 </tr>
@@ -113,7 +113,7 @@ CRM para pequenos negócios: leads pontuados, pipeline kanban, command palette, 
 </table>
 
 <details>
-<summary><b>Registro completo: os 10 sistemas</b></summary>
+<summary><b>Registro completo: os 9 sistemas</b></summary>
 <br />
 
 | Código | Sistema | Tipo | Situação | Ver |
@@ -124,10 +124,9 @@ CRM para pequenos negócios: leads pontuados, pipeline kanban, command palette, 
 | SYS-04 | ParkNow | SaaS B2B2C · web + mobile | Produto próprio | [código](https://github.com/ParkNow914/ParkNow) |
 | SYS-05 | Bia | Delivery multicanal · IA | Entregue | [ficha](https://autarktech.com.br/sistemas/bia/?utm_source=github&utm_medium=perfil) |
 | SYS-06 | FlowHub | CRM SaaS · código aberto | Produto próprio | [código](https://github.com/ParkNow914/flowhub) |
-| SYS-07 | Marvet | Site e catálogo · SEO | Entregue | [ficha](https://autarktech.com.br/sistemas/marvet/?utm_source=github&utm_medium=perfil) |
-| SYS-08 | RealCred+ | Landing + simulador | Entregue | [código](https://github.com/ParkNow914/realcredmais) |
-| SYS-09 | Índice de Gestão | Diagnóstico · agronegócio | Em produção | [ficha](https://autarktech.com.br/sistemas/indice-de-gestao/?utm_source=github&utm_medium=perfil) |
-| SYS-10 | Acerto | SaaS · crédito consignado | Produto próprio | [ficha](https://autarktech.com.br/sistemas/acerto/?utm_source=github&utm_medium=perfil) |
+| SYS-07 | RealCred+ | Landing + simulador | Entregue | [código](https://github.com/ParkNow914/realcredmais) |
+| SYS-08 | Índice de Gestão | Diagnóstico · agronegócio | Em produção | [ficha](https://autarktech.com.br/sistemas/indice-de-gestao/?utm_source=github&utm_medium=perfil) |
+| SYS-09 | Acerto | SaaS · crédito consignado | Produto próprio | [ficha](https://autarktech.com.br/sistemas/acerto/?utm_source=github&utm_medium=perfil) |
 
 </details>
 
